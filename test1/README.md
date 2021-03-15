@@ -24,7 +24,7 @@
 
 执行计划：
 
-<img src="C:\Users\25827\AppData\Roaming\Typora\typora-user-images\image-20210315215345660.png" alt="image-20210315215345660" style="zoom: 67%;" />
+<img src="https://github.com/peonytao/oracle/blob/main/test1/result1-1.png" alt="image-20210315215345660" style="zoom: 67%;" />
 
 语句分析：
 
@@ -36,11 +36,11 @@
 
 执行结果：
 
-<img src="C:\Users\25827\AppData\Roaming\Typora\typora-user-images\image-20210315215554967.png" alt="image-20210315215554967" style="zoom:80%;" />
+<img src="https://github.com/peonytao/oracle/blob/main/test1/result2.png" alt="image-20210315215554967" style="zoom:80%;" />
 
 执行计划：
 
-<img src="C:\Users\25827\AppData\Roaming\Typora\typora-user-images\image-20210315215735531.png" alt="image-20210315215735531" style="zoom: 50%;" />
+<img src="https://github.com/peonytao/oracle/blob/main/test1/result2-1.png" alt="image-20210315215735531" style="zoom: 50%;" />
 
 语句分析：
 
@@ -50,11 +50,11 @@
 
 执行结果：
 
-<img src="C:\Users\25827\AppData\Roaming\Typora\typora-user-images\image-20210315220704494.png" alt="image-20210315220704494" style="zoom: 80%;" />
+<img src="https://github.com/peonytao/oracle/blob/main/test1/result3.png" alt="image-20210315220704494" style="zoom: 80%;" />
 
 执行计划：
 
-<img src="C:\Users\25827\AppData\Roaming\Typora\typora-user-images\image-20210315220746297.png" alt="image-20210315220746297" style="zoom:67%;" />
+<img src="https://github.com/peonytao/oracle/blob/main/test1/result3-1.png" alt="image-20210315220746297" style="zoom:67%;" />
 
 优化：
 
