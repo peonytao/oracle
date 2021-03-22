@@ -18,7 +18,7 @@ Oracle有一个开发者角色resource，可以创建表、过程、触发器等
 
 - 第1步：以system登录到pdborcl，创建角色peony和用户peonytao，并授权和分配空间：
 
-![1](C:\文件\大三的课\oracle\实验二\1.png)
+<img src="1.jpg"/>
 
 - 第2步：新用户peonytao连接到pdborcl，创建表mytable和视图myview，插入数据，最后将myview的SELECT对象权限授予hr用户。
 
