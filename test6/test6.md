@@ -60,13 +60,13 @@
 
 #### (1)创建角色管理员(lh_manager)，创建用户(lh_admin)并分配权限，将角色lh_manager分配给用户lh_admin。
 
-![3.1.1](C:\Users\25827\Desktop\数据库图片\3.1.1.png)
+![3.1.1](\test6图片\3.1.1.png)
 
 
 
 ####     创建角色用户(lh_users)，创建用户(lh_user)并分配权限，将角色lh_users分配给用户lh_user。
 
-![3.1.2](test6图片\3.1.2.png)
+![3.1.2](\test6图片\3.1.2.png)
 
 #### (2)创建用户表
 
