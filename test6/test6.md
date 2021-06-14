@@ -60,7 +60,7 @@
 
 #### (1)创建角色管理员(lh_manager)，创建用户(lh_admin)并分配权限，将角色lh_manager分配给用户lh_admin。
 
-![3.1.1](\test6图片\3.1.1.png)
+<img src='test6图片\3.1.1.png>
 
 
 
